@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/HienNguyen711/aws-lex-lambda-bot#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "aws-sdk": "^2.86.0",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "jasmine": "^2.6.0"
   }
 }
